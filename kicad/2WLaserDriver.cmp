@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by Cvpcb (2014-08-05 BZR 5054)-product   date = Sun 17 Aug 2014 09:33:51 AM PDT
+
+BeginCmp
+TimeStamp = /53EFE5FC;
+Reference = C1;
+ValeurCmp = 10U;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EFC4DE;
+Reference = C2;
+ValeurCmp = 10U;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EF8B73;
+Reference = C3;
+ValeurCmp = 10U;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EFB346;
+Reference = C4;
+ValeurCmp = 10U;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EFCF84;
+Reference = D1;
+ValeurCmp = 1N4148;
+IdModule  = common-ICs:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EFD98F;
+Reference = D2;
+ValeurCmp = 1N4744;
+IdModule  = common-ICs:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EFFCFC;
+Reference = D3;
+ValeurCmp = 1N4007;
+IdModule  = common-ICs:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EFFD84;
+Reference = D4;
+ValeurCmp = 4.6V;
+IdModule  = common-ICs:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EFB1C5;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = common-ICs:SMD-HEADER-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EFB0D6;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = common-ICs:OSTVN02A150;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F02DD9;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = common-ICs:OSTVN02A150;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EF8AB7;
+Reference = Q1;
+ValeurCmp = 30N06L ;
+IdModule  = Transistors_TO-220:TO-220_FET-GDS_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EFB85B;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EFC875;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EF8BB8;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EFF2D7;
+Reference = R4;
+ValeurCmp = 0.75;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EF89BA;
+Reference = U1;
+ValeurCmp = LT1910;
+IdModule  = common-ICs:LT1910;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EFEF83;
+Reference = U2;
+ValeurCmp = LM338;
+IdModule  = common-ICs:TO-220;
+EndCmp
+
+EndListe
